@@ -1,0 +1,30 @@
+{
+  "cycle": "2026-Q4",
+  "brand": "Northwind Support Center",
+  "repositories": [
+    {
+      "repo": "nwl-5691-legacy-support-kb",
+      "team": "Support Content",
+      "status": "active",
+      "wave": "wave-2",
+      "target_slug": "support-knowledge-hub",
+      "priority": "high"
+    },
+    {
+      "repo": "nwl-5691-legacy-billing-docs",
+      "team": "Billing Content",
+      "status": "frozen",
+      "wave": "wave-2",
+      "target_slug": "billing-knowledge-hub",
+      "priority": "low"
+    },
+    {
+      "repo": "nwl-5691-support-knowledge-base",
+      "team": "Support Content",
+      "status": "active",
+      "wave": "wave-3",
+      "target_slug": "support-knowledge-base-v2",
+      "priority": "medium"
+    }
+  ]
+}
